@@ -13,7 +13,7 @@
       <link>https://arnabnandikgp.github.io/posts/intro/</link>
       <pubDate>Thu, 30 May 2024 20:29:20 +0530</pubDate>
       <guid>https://arnabnandikgp.github.io/posts/intro/</guid>
-      <description>this is the content for what this blog will cover</description>
+      <description>Hello everyone and welcome to the weekly blogpost for my GSoC 2024 project. My proposal for Improving series expansions and limit computations for the Sympy has been accepted for GSoC 2024. For those who don&amp;rsquo;t know about Sympy,Sympy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible.</description>
     </item>
   </channel>
 </rss>
