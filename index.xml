@@ -6,8 +6,15 @@
     <description>Recent content on GSoC 24 weekly blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jun 2024 08:08:28 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 11:01:59 +0530</lastBuildDate>
     <atom:link href="https://arnabnandikgp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week4</title>
+      <link>https://arnabnandikgp.github.io/posts/week4/</link>
+      <pubDate>Sun, 23 Jun 2024 11:01:59 +0530</pubDate>
+      <guid>https://arnabnandikgp.github.io/posts/week4/</guid>
+      <description> Worked on solving the discrepancy in the _eval_as_leading_term and _eval_as_nseries method of the singularity function for its discrepancy for non-negative arguments. The solution involves declaring a new a function in the beams module that mimics and will replace all limits calls in beams.py as otherwise there could be a possibility of an infinite recursion.issue </description>
+    </item>
     <item>
       <title>Week3</title>
       <link>https://arnabnandikgp.github.io/posts/week3/</link>
